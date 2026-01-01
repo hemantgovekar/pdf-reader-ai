@@ -5,4 +5,5 @@ Read the pdf file and answer questions related to file. Used free gemma3 model w
 This is a pdf chat bot application which can be run locally with ollama.
 
 Run this using
+```javascript
 streamlit run app.py
